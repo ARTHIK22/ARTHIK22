@@ -89,3 +89,9 @@ I'm always happy to chat about AI/ML, web development, or potential collaboratio
 ⭐ If you like any of my projects, a star on the repo goes a long way — thanks for stopping by!
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-snake.svg">
+</picture>
