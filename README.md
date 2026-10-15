@@ -1,19 +1,19 @@
 ::: {align="center"}
-`<img src="assets/aurora-banner.svg" width="100%" alt="Arthik Dwivedi — AI Engineer in the making"/>`{=html}
+`<img src="assets/aurora-banner.svg" width="100%" alt="Arthik Dwivedi — AI Engineer in the making"/>`
 
-`<br>`{=html}
+`<br>`
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=7C6EE6&center=true&vCenter=true&width=760&lines=Building+AI+that+solves+real+problems;Machine+Learning+%7C+AI+Agents+%7C+Software;From+curiosity+to+working+products;Learn.+Build.+Experiment.+Repeat." alt="Animated introduction"/>`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=7C6EE6&center=true&vCenter=true&width=760&lines=Building+AI+that+solves+real+problems;Machine+Learning+%7C+AI+Agents+%7C+Software;From+curiosity+to+working+products;Learn.+Build.+Experiment.+Repeat." alt="Animated introduction"/>`
 
-`<br>`{=html}`<br>`{=html}
+`<br>``<br>`
 
-`<a href="https://github.com/ARTHIK22">`{=html}`<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-20202A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/arthik-dwivedi">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
-`<a href="mailto:arthikdwivedi07@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Say%20hello-D8B46A?style=for-the-badge&logo=gmail&logoColor=252532" alt="Email"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ARTHIK22">``<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-20202A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>``</a>`
+`<a href="https://www.linkedin.com/in/arthik-dwivedi">``<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>``</a>`
+`<a href="mailto:arthikdwivedi07@gmail.com">``<img src="https://img.shields.io/badge/Email-Say%20hello-D8B46A?style=for-the-badge&logo=gmail&logoColor=252532" alt="Email"/>``</a>`
 
-`<br>`{=html}`<br>`{=html}
+`<br>``<br>`
 
-`<img src="https://komarev.com/ghpvc/?username=ARTHIK22&style=flat-square&color=9A8CF0&label=PROFILE+VISITORS" alt="Profile visitors"/>`{=html}
+`<img src="https://komarev.com/ghpvc/?username=ARTHIK22&style=flat-square&color=9A8CF0&label=PROFILE+VISITORS" alt="Profile visitors"/>`
 :::
 
 ------------------------------------------------------------------------
@@ -48,28 +48,28 @@ working product.
 ::: {align="center"}
 **Languages**
 
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7" alt="Programming languages"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7" alt="Programming languages"/>`
 
 **AI · Backend · Frontend**
 
-`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,vite&perline=9" alt="AI and application stack"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,vite&perline=9" alt="AI and application stack"/>`
 
 **Data · Tools**
 
-`<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,postman,vscode&perline=8" alt="Data and developer tools"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,postman,vscode&perline=8" alt="Data and developer tools"/>`
 :::
 
 ------------------------------------------------------------------------
 
 ## ✦ Selected projects
 
-```{=html}
+```
 <table>
 ```
-```{=html}
+```
 <tr>
 ```
-```{=html}
+```
 <td width="50%" valign="top">
 ```
 ### 🏡 NeoEstate AI
@@ -81,16 +81,16 @@ property data and provide pricing insights.
 
 `Python` `Flask` `Machine Learning`
 
-`<br>`{=html}
+`<br>`
 
-`<a href="https://github.com/ARTHIK22/neoestate-ai">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View NeoEstate AI code"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ARTHIK22/neoestate-ai">``<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View NeoEstate AI code"/>``</a>`
 
-`<a href="https://neoestate-ai-1.onrender.com/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeoEstate AI demo"/>`{=html}`</a>`{=html}
+`<a href="https://neoestate-ai-1.onrender.com/">``<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeoEstate AI demo"/>``</a>`
 
-```{=html}
+```
 </td>
 ```
-```{=html}
+```
 <td width="50%" valign="top">
 ```
 ### 🧠 ProjectSense AI
@@ -102,22 +102,22 @@ against rubrics and generate viva-preparation questions.
 
 `Next.js` `FastAPI` `AI`
 
-`<br>`{=html}
+`<br>`
 
-`<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View ProjectSense AI code"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">``<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View ProjectSense AI code"/>``</a>`
 
-`<a href="https://ai-power-academic-project-evaluatio.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProjectSense AI demo"/>`{=html}`</a>`{=html}
+`<a href="https://ai-power-academic-project-evaluatio.vercel.app/">``<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProjectSense AI demo"/>``</a>`
 
-```{=html}
+```
 </td>
 ```
-```{=html}
+```
 </tr>
 ```
-```{=html}
+```
 <tr>
 ```
-```{=html}
+```
 <td colspan="2" valign="top">
 ```
 ### 📊 Student Performance Clustering System
@@ -129,17 +129,17 @@ and presents insights through interactive dashboards.
 
 `Python` `Machine Learning` `Streamlit`
 
-`<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Clustering code"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">``<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Clustering code"/>``</a>`
 
-`<a href="https://student-performance-clustering-syst.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Student Performance Clustering demo"/>`{=html}`</a>`{=html}
+`<a href="https://student-performance-clustering-syst.vercel.app/">``<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Student Performance Clustering demo"/>``</a>`
 
-```{=html}
+```
 </td>
 ```
-```{=html}
+```
 </tr>
 ```
-```{=html}
+```
 </table>
 ```
 
@@ -148,19 +148,19 @@ and presents insights through interactive dashboards.
 ## ✦ GitHub at a glance
 
 ::: {align="center"}
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&icon_color=E5C47B" alt="GitHub profile statistics"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&icon_color=E5C47B" alt="GitHub profile statistics"/>`
 
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&langs_count=6" alt="Most-used languages"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&langs_count=6" alt="Most-used languages"/>`
 
-`<br>`{=html}`<br>`{=html}
+`<br>``<br>`
 
-`<img src="https://streak-stats.demolab.com?user=ARTHIK22&hide_border=true&background=0D1117&ring=A99BFF&fire=E5C47B&currStreakLabel=A99BFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>`{=html}
+`<img src="https://streak-stats.demolab.com?user=ARTHIK22&hide_border=true&background=0D1117&ring=A99BFF&fire=E5C47B&currStreakLabel=A99BFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>`
 
-`<br>`{=html}
+`<br>`
 
-`<sub>`{=html}Stats are provided by third-party services and may
+`<sub>`Stats are provided by third-party services and may
 occasionally be unavailable. The activity graph was intentionally
-omitted to avoid the broken image in the previous README.`</sub>`{=html}
+omitted to avoid the broken image in the previous README.`</sub>`
 :::
 
 ------------------------------------------------------------------------
@@ -187,15 +187,15 @@ omitted to avoid the broken image in the previous README.`</sub>`{=html}
 ## ✦ Find me around the web
 
 ::: {align="center"}
-`<a href="https://github.com/ARTHIK22">`{=html}`<img src="https://img.shields.io/badge/GitHub-ARTHIK22-24232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/arthik-dwivedi">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>`{=html}`</a>`{=html}
-`<a href="https://www.instagram.com/_arthik_22/">`{=html}`<img src="https://img.shields.io/badge/Instagram-@_arthik__22-D8A6C8?style=for-the-badge&logo=instagram&logoColor=29283A" alt="Instagram profile"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/8417996304/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-D8B46A?style=for-the-badge&logo=leetcode&logoColor=29283A" alt="LeetCode profile"/>`{=html}`</a>`{=html}
-`<a href="mailto:arthikdwivedi07@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-arthikdwivedi07%40gmail.com-83CFC0?style=for-the-badge&logo=gmail&logoColor=29283A" alt="Email Arthik"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ARTHIK22">``<img src="https://img.shields.io/badge/GitHub-ARTHIK22-24232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>``</a>`
+`<a href="https://www.linkedin.com/in/arthik-dwivedi">``<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>``</a>`
+`<a href="https://www.instagram.com/_arthik_22/">``<img src="https://img.shields.io/badge/Instagram-@_arthik__22-D8A6C8?style=for-the-badge&logo=instagram&logoColor=29283A" alt="Instagram profile"/>``</a>`
+`<a href="https://leetcode.com/u/8417996304/">``<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-D8B46A?style=for-the-badge&logo=leetcode&logoColor=29283A" alt="LeetCode profile"/>``</a>`
+`<a href="mailto:arthikdwivedi07@gmail.com">``<img src="https://img.shields.io/badge/Email-arthikdwivedi07%40gmail.com-83CFC0?style=for-the-badge&logo=gmail&logoColor=29283A" alt="Email Arthik"/>``</a>`
 
-`<br>`{=html}`<br>`{=html}
+`<br>``<br>`
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=A99BFF&center=true&vCenter=true&width=600&lines=Stay+curious.;Build+with+purpose.;Make+intelligence+useful." alt="Closing animation"/>`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=A99BFF&center=true&vCenter=true&width=600&lines=Stay+curious.;Build+with+purpose.;Make+intelligence+useful." alt="Closing animation"/>`
 
 **Build with intent. Solve meaningful problems. Ship what matters.**
 :::
