@@ -1,175 +1,91 @@
 <div align="center">
 
-<img src="assets/aurora-banner.svg" width="100%" alt="Arthik Dwivedi — AI Engineer in the making"/>
+# Hey, I'm Arthik Dwivedi 👋
 
-<br>
+### Building AI-powered web apps — from ML models to full-stack products
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=7C6EE6&center=true&vCenter=true&width=760&lines=Building+AI+that+solves+real+problems;Machine+Learning+%7C+AI+Agents+%7C+Software;From+curiosity+to+working+products;Learn.+Build.+Experiment.+Repeat." alt="Animated introduction"/>
-
-<br><br>
-
-<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-20202A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:arthikdwivedi07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D8B46A?style=for-the-badge&logo=gmail&logoColor=252532" alt="Email"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ARTHIK22&style=flat-square&color=9A8CF0&label=PROFILE+VISITORS" alt="Profile visitors"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--k9vg.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-k9vg.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthik_Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthik-dwivedi-553b6938a)
+[![Instagram](https://img.shields.io/badge/Instagram-_arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthik_22/)
 
 </div>
 
-✦ The person behind the code
+---
 
-Hey, I'm Arthik Dwivedi — a third-year B.Tech student specializing in Artificial Intelligence & Machine Learning.
+## 👨‍💻 About Me
 
-I enjoy turning ideas into useful software, exploring intelligent systems, and learning how to take projects from a first experiment to a working product.
+I like turning machine learning ideas into real, deployed products that people can actually use. My projects so far cover **price prediction**, **student analytics**, and **AI-based evaluation** — each shipped with a live demo.
 
-🧠 AI & Machine Learning — building and experimenting with data-driven solutions.
+- 🤖 Working with **Python, scikit-learn, Flask, FastAPI and Streamlit** for ML and backends
+- 🌐 Building frontends with **Next.js, React, TypeScript and Vite**
+- ☁️ Deploying on **Vercel** and **Render**
+- 📈 Currently exploring LLM-powered applications and applied machine learning
 
-⚙️ Backend Engineering — APIs, application logic, and reliable services.
+---
 
-🌐 Full-Stack Development — making ideas usable through thoughtful interfaces.
+## 🚀 Featured Projects
 
-🚀 Product mindset — solving the right problem matters as much as writing the code.
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| 🏠 **NeoEstate AI** | Predicts property prices across India with a Random Forest model (R² 0.93), compares against local ₹/sqft rates, and checks results against your budget. | Python · Flask · scikit-learn | [Live](https://neoestate-ai-1.onrender.com/) · [Code](https://github.com/ARTHIK22/neoestate-ai) |
+| 🎓 **ProjectSense AI** | Evaluates student capstone projects using the Grok LLM — rubric-based scoring, code analysis, clone detection, auto-generated viva questions and a teacher review workflow. | Next.js · React · TypeScript · FastAPI · SQLAlchemy | [Live](https://ai-powered-academic-project-evaluat.vercel.app) · [Code](https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform) |
+| 📊 **Student Performance Clustering** | Groups students into academic personas (High Performers, At-Risk, etc.) with K-Means, Elbow and Silhouette analysis, plus interactive 2D/3D Plotly charts. | Python · Streamlit · scikit-learn · Plotly | [Live](https://student-performance-clustering-syst.vercel.app/) · [Code](https://github.com/ARTHIK22/-Student-Performance-Clustering-System) |
+| 🧑‍🎨 **Portfolio** | My personal portfolio website. | TypeScript · Vite · Vercel | [Live](https://portfolio-k9vg.vercel.app) · [Code](https://github.com/ARTHIK22/portfolio) |
 
-🔎 Always learning — exploring AI agents, automation, and production-ready systems.
+---
 
-My direction: become an AI Engineer who builds intelligent products with real-world value.
+## 🛠️ Tech Stack
 
-✦ My toolkit
+**Languages**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Languages
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7" alt="Programming languages"/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-AI · Backend · Frontend
+**Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,vite&perline=9" alt="AI and application stack"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Data · Tools
+**ML & Analytics**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,postman,vscode&perline=8" alt="Data and developer tools"/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-</div>
+**Deployment & Tools**
 
-✦ Selected projects
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-🏡 NeoEstate AI
+## 📫 Let's Connect
 
-Machine Learning · Real Estate
+I'm always happy to chat about AI/ML, web development, or potential collaborations.
 
-An ML-powered real-estate valuation platform designed to analyze property data and provide pricing insights.
-
-Python Flask Machine Learning
-
-<br>
-
-<a href="https://github.com/ARTHIK22/neoestate-ai"><img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View NeoEstate AI code"/></a>
-
-<a href="https://neoestate-ai-1.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeoEstate AI demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-🧠 ProjectSense AI
-
-AI · Academic Evaluation
-
-An AI-powered academic evaluation platform designed to assess projects against rubrics and generate viva-preparation questions.
-
-Next.js FastAPI AI
-
-<br>
-
-<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform"><img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View ProjectSense AI code"/></a>
-
-<a href="https://ai-power-academic-project-evaluatio.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProjectSense AI demo"/></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-📊 Student Performance Clustering System
-
-Machine Learning · Education Analytics
-
-A data-driven application that groups students by performance patterns and presents insights through interactive dashboards.
-
-Python Machine Learning Streamlit
-
-<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System"><img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Clustering code"/></a>
-
-<a href="https://student-performance-clustering-syst.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Student Performance Clustering demo"/></a>
-
-</td>
-</tr>
-</table>
-
-✦ GitHub at a glance
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthik-dwivedi-553b6938a)
+- 🌐 [Portfolio](https://portfolio-k9vg.vercel.app)
+- 📸 [Instagram](https://www.instagram.com/_arthik_22/)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&icon_color=E5C47B" alt="GitHub profile statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&langs_count=6" alt="Most-used languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ARTHIK22&hide_border=true&background=0D1117&ring=A99BFF&fire=E5C47B&currStreakLabel=A99BFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
-
-<br>
-
-<sub>Stats are provided by third-party services and may occasionally be unavailable. The activity graph was intentionally omitted to avoid the broken image in the previous README.</sub>
-
-</div>
-
-✦ What I'm working toward
-
-<div align="center">
-
-🤖 AI Engineering
-
-🧩 Intelligent Systems
-
-🌍 Product Building
-
-Practical ML applications
-
-AI agents and automation
-
-Useful, reliable software
-
-</div>
-
-Strengthening software engineering and problem-solving fundamentals.
-
-Building projects that combine AI with real user needs.
-
-Collaborating with developers and learning through hackathons.
-
-Turning experiments into well-documented, usable applications.
-
-✦ Find me around the web
-
-<div align="center">
-
-<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-24232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-<a href="https://www.instagram.com/_arthik_22/"><img src="https://img.shields.io/badge/Instagram-@_arthik__22-D8A6C8?style=for-the-badge&logo=instagram&logoColor=29283A" alt="Instagram profile"/></a>
-<a href="https://leetcode.com/u/8417996304/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-D8B46A?style=for-the-badge&logo=leetcode&logoColor=29283A" alt="LeetCode profile"/></a>
-<a href="mailto:arthikdwivedi07@gmail.com"><img src="https://img.shields.io/badge/Email-arthikdwivedi07%40gmail.com-83CFC0?style=for-the-badge&logo=gmail&logoColor=29283A" alt="Email Arthik"/></a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=A99BFF&center=true&vCenter=true&width=600&lines=Stay+curious.;Build+with+purpose.;Make+intelligence+useful." alt="Closing animation"/>
-
-Build with intent. Solve meaningful problems. Ship what matters.
+⭐ If you like any of my projects, a star on the repo goes a long way — thanks for stopping by!
 
 </div>
