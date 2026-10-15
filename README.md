@@ -1,109 +1,201 @@
-<div align="center">
+::: {align="center"}
+`<img src="assets/aurora-banner.svg" width="100%" alt="Arthik Dwivedi — AI Engineer in the making"/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,100:7C3AED&height=190&section=header&text=ARTHIK%20DWIVEDI&fontSize=58&fontColor=F8FAFC&fontAlignY=32&animation=fadeIn&desc=AI%20Engineer%20%7C%20Product%20Builder%20%7C%20Systems%20Thinker&descAlignY=56&descSize=17" width="100%"/>
+`<br>`{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=900&color=CBD5E1&center=true&vCenter=true&width=820&lines=Building+AI+products+with+real+value;Engineering+solutions+that+scale;Python+%7C+ML+%7C+Full-Stack;Design+%E2%80%A2+Build+%E2%80%A2+Ship" alt="Typing animation"/>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=7C6EE6&center=true&vCenter=true&width=760&lines=Building+AI+that+solves+real+problems;Machine+Learning+%7C+AI+Agents+%7C+Software;From+curiosity+to+working+products;Learn.+Build.+Experiment.+Repeat." alt="Animated introduction"/>`{=html}
 
-<br>
+`<br>`{=html}`<br>`{=html}
 
-<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/8417996304/"><img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+`<a href="https://github.com/ARTHIK22">`{=html}`<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-20202A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/arthik-dwivedi">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="mailto:arthikdwivedi07@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Say%20hello-D8B46A?style=for-the-badge&logo=gmail&logoColor=252532" alt="Email"/>`{=html}`</a>`{=html}
 
-<br><br>
+`<br>`{=html}`<br>`{=html}
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-INTERNSHIPS%20%7C%20PROJECTS-34D399?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=ARTHIK22&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+`<img src="https://komarev.com/ghpvc/?username=ARTHIK22&style=flat-square&color=9A8CF0&label=PROFILE+VISITORS" alt="Profile visitors"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## ✦ The person behind the code
 
-## About
+Hey, I'm **Arthik Dwivedi** --- a third-year B.Tech student specializing
+in **Artificial Intelligence & Machine Learning**.
 
-I’m <b>Arthik Dwivedi</b>, a <b>B.Tech CSE (AI & Machine Learning)</b> student focused on building intelligent products, solving technical problems, and creating software with measurable impact.
+I enjoy turning ideas into useful software, exploring intelligent
+systems, and learning how to take projects from a first experiment to a
+working product.
 
-I work across <b>AI</b>, <b>machine learning</b>, <b>backend engineering</b>, and <b>full-stack development</b>. My approach is practical: identify the real problem, build the right system, and ship it with clarity.
+-   🧠 **AI & Machine Learning** --- building and experimenting with
+    data-driven solutions.
+-   ⚙️ **Backend Engineering** --- APIs, application logic, and reliable
+    services.
+-   🌐 **Full-Stack Development** --- making ideas usable through
+    thoughtful interfaces.
+-   🚀 **Product mindset** --- solving the right problem matters as much
+    as writing the code.
+-   🔎 **Always learning** --- exploring AI agents, automation, and
+    production-ready systems.
 
-I’m especially interested in the intersection of <b>product thinking</b>, <b>AI engineering</b>, and <b>high-quality software execution</b>.
+> **My direction:** become an AI Engineer who builds intelligent
+> products with real-world value.
 
----
+------------------------------------------------------------------------
 
-## Stack
+## ✦ My toolkit
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&perline=7"/>
-</p>
+::: {align="center"}
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,flask,react,nextjs,nodejs&perline=9"/>
-</p>
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7" alt="Programming languages"/>`{=html}
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,docker,postman&perline=8"/>
-</p>
+**AI · Backend · Frontend**
 
----
+`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,vite&perline=9" alt="AI and application stack"/>`{=html}
 
-## Featured Work
+**Data · Tools**
 
-### 1. NeoEstate AI
-A machine-learning platform for real-estate valuation, built to analyze market signals and provide more informed pricing insights.
+`<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,postman,vscode&perline=8" alt="Data and developer tools"/>`{=html}
+:::
 
-<b>Stack:</b> Python • Flask • Machine Learning  
-<a href="https://github.com/ARTHIK22/neoestate-ai">Code</a> • <a href="https://neoestate-ai-1.onrender.com/">Demo</a>
+------------------------------------------------------------------------
 
-### 2. ProjectSense AI
-An AI-powered academic evaluation system that automates rubric-based assessment and generates viva-ready questions for project submissions.
+## ✦ Selected projects
 
-<b>Stack:</b> Next.js • FastAPI • AI  
-<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">Code</a> • <a href="https://ai-power-academic-project-evaluatio.vercel.app/">Demo</a>
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🏡 NeoEstate AI
 
-### 3. Student Performance Clustering
-A data-driven analytics system that segments student performance into clusters and exposes insights through interactive visual dashboards.
+**Machine Learning · Real Estate**
 
-<b>Stack:</b> Python • ML • Streamlit  
-<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">Code</a> • <a href="https://student-performance-clustering-syst.vercel.app/">Demo</a>
+An ML-powered real-estate valuation platform designed to analyze
+property data and provide pricing insights.
 
----
+`Python` `Flask` `Machine Learning`
 
-## GitHub Snapshot
+`<br>`{=html}
 
-<div align="center">
+`<a href="https://github.com/ARTHIK22/neoestate-ai">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View NeoEstate AI code"/>`{=html}`</a>`{=html}
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175"/>
+`<a href="https://neoestate-ai-1.onrender.com/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeoEstate AI demo"/>`{=html}`</a>`{=html}
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧠 ProjectSense AI
 
-<br><br>
+**AI · Academic Evaluation**
 
-<img src="https://streak-stats.demolab.com/?user=ARTHIK22&theme=tokyonight&hide_border=true" width="55%"/>
+An AI-powered academic evaluation platform designed to assess projects
+against rubrics and generate viva-preparation questions.
 
-</div>
+`Next.js` `FastAPI` `AI`
 
----
+`<br>`{=html}
 
-## Why Me
+`<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View ProjectSense AI code"/>`{=html}`</a>`{=html}
 
-- AI + software builder with a product mindset
-- Strong foundation in <b>machine learning</b>, <b>backend systems</b>, and <b>web development</b>
-- Interested in building <b>AI-powered products</b> that create concrete value
-- Focused on <b>execution</b>, <b>clarity</b>, and <b>continuous learning</b>
+`<a href="https://ai-power-academic-project-evaluatio.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ProjectSense AI demo"/>`{=html}`</a>`{=html}
 
----
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td colspan="2" valign="top">
+```
+### 📊 Student Performance Clustering System
 
-## Connect
+**Machine Learning · Education Analytics**
 
-<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/_arthik_22/"><img src="https://img.shields.io/badge/Instagram-@__arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+A data-driven application that groups students by performance patterns
+and presents insights through interactive dashboards.
 
-<br><br>
+`Python` `Machine Learning` `Streamlit`
 
-<p align="center">
-  <b>Build with intent. Solve the right problems. Ship what matters.</b>
-</p>
+`<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">`{=html}`<img src="https://img.shields.io/badge/VIEW%20CODE-29283A?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Clustering code"/>`{=html}`</a>`{=html}
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,100:7C3AED&height=100&section=footer" width="100%"/>
-</div>
+`<a href="https://student-performance-clustering-syst.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/LIVE%20DEMO-7C6EE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Student Performance Clustering demo"/>`{=html}`</a>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+## ✦ GitHub at a glance
+
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&icon_color=E5C47B" alt="GitHub profile statistics"/>`{=html}
+
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=E6EDF3&langs_count=6" alt="Most-used languages"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=ARTHIK22&hide_border=true&background=0D1117&ring=A99BFF&fire=E5C47B&currStreakLabel=A99BFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>`{=html}
+
+`<br>`{=html}
+
+`<sub>`{=html}Stats are provided by third-party services and may
+occasionally be unavailable. The activity graph was intentionally
+omitted to avoid the broken image in the previous README.`</sub>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## ✦ What I'm working toward
+
+::: {align="center"}
+  -----------------------------------------------------------------------
+     🤖 AI Engineering    🧩 Intelligent Systems    🌍 Product Building
+  ----------------------- ----------------------- -----------------------
+       Practical ML            AI agents and         Useful, reliable
+       applications             automation               software
+
+  -----------------------------------------------------------------------
+:::
+
+-   Strengthening software engineering and problem-solving fundamentals.
+-   Building projects that combine AI with real user needs.
+-   Collaborating with developers and learning through hackathons.
+-   Turning experiments into well-documented, usable applications.
+
+------------------------------------------------------------------------
+
+## ✦ Find me around the web
+
+::: {align="center"}
+`<a href="https://github.com/ARTHIK22">`{=html}`<img src="https://img.shields.io/badge/GitHub-ARTHIK22-24232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/arthik-dwivedi">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-7569D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>`{=html}`</a>`{=html}
+`<a href="https://www.instagram.com/_arthik_22/">`{=html}`<img src="https://img.shields.io/badge/Instagram-@_arthik__22-D8A6C8?style=for-the-badge&logo=instagram&logoColor=29283A" alt="Instagram profile"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/8417996304/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-D8B46A?style=for-the-badge&logo=leetcode&logoColor=29283A" alt="LeetCode profile"/>`{=html}`</a>`{=html}
+`<a href="mailto:arthikdwivedi07@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-arthikdwivedi07%40gmail.com-83CFC0?style=for-the-badge&logo=gmail&logoColor=29283A" alt="Email Arthik"/>`{=html}`</a>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=A99BFF&center=true&vCenter=true&width=600&lines=Stay+curious.;Build+with+purpose.;Make+intelligence+useful." alt="Closing animation"/>`{=html}
+
+**Build with intent. Solve meaningful problems. Ship what matters.**
+:::
