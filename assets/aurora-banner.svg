@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Arthik Dwivedi — AI Engineer in the making</title>
+<desc id="desc">An animated aurora-inspired gradient banner with abstract neural network lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#10121F"/>
+    <stop offset="45%" stop-color="#272447"/>
+    <stop offset="100%" stop-color="#123A42"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#D8B46A"/>
+    <stop offset="40%" stop-color="#9D91FF"/>
+    <stop offset="75%" stop-color="#82E2D0"/>
+    <stop offset="100%" stop-color="#F0C8D9"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#9D91FF" stop-opacity=".42"/>
+    <stop offset="100%" stop-color="#9D91FF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+<ellipse cx="310" cy="55" rx="300" ry="120" fill="#8C7DFF" opacity=".24" filter="url(#blur)">
+  <animate attributeName="cx" values="310;420;310" dur="12s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="930" cy="285" rx="300" ry="120" fill="#72E0CE" opacity=".19" filter="url(#blur)">
+  <animate attributeName="cx" values="930;810;930" dur="14s" repeatCount="indefinite"/>
+</ellipse>
+<g stroke="url(#aurora)" stroke-width="1.2" opacity=".55" fill="none">
+  <path d="M60 270 L180 205 L290 245 L390 155 L500 205"/>
+  <path d="M740 95 L840 145 L940 75 L1040 135 L1140 65"/>
+  <path d="M740 270 L840 220 L940 265 L1040 210 L1140 250"/>
+</g>
+<g fill="#E9E5FF">
+  <circle cx="60" cy="270" r="3"/><circle cx="180" cy="205" r="3"/><circle cx="290" cy="245" r="3"/>
+  <circle cx="390" cy="155" r="3"/><circle cx="500" cy="205" r="3"/><circle cx="740" cy="95" r="3"/>
+  <circle cx="840" cy="145" r="3"/><circle cx="940" cy="75" r="3"/><circle cx="1040" cy="135" r="3"/>
+  <circle cx="1140" cy="65" r="3"/><circle cx="740" cy="270" r="3"/><circle cx="840" cy="220" r="3"/>
+  <circle cx="940" cy="265" r="3"/><circle cx="1040" cy="210" r="3"/><circle cx="1140" cy="250" r="3"/>
+</g>
+<circle cx="600" cy="170" r="115" fill="url(#glow)"/>
+<rect x="70" y="38" width="1060" height="264" rx="20" fill="none" stroke="url(#aurora)" stroke-opacity=".36"/>
+<text x="600" y="143" text-anchor="middle" fill="#F7F5FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="7">AI  •  ENGINEERING  •  PRODUCT</text>
+<text x="600" y="204" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" font-size="51" letter-spacing="1.5">ARTHIK DWIVEDI</text>
+<rect x="448" y="231" width="304" height="2" rx="1" fill="url(#aurora)">
+  <animate attributeName="opacity" values=".45;1;.45" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<text x="600" y="265" text-anchor="middle" fill="#C9C7E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2.5">BUILDING INTELLIGENT THINGS THAT MATTER</text>
+</svg>
